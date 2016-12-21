@@ -3,3 +3,4 @@ test2.txt
 make changes
 
 change 2
+change 3
